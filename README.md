@@ -1,7 +1,6 @@
 # Personal_Tools_List
 tools I gathered to use in my personal projects
 
-
 <b> multiple tools  </b>
 
 - <a href="https://omatsuri.app/" target="_blank"> multiple tools </a>
@@ -28,6 +27,7 @@ tools I gathered to use in my personal projects
 - <a href="https://greensock.com/" target="_blank"> GreenSock </a>
 - <a href="https://gionkunz.github.io/chartist-js/" target="_blank"> Chartist.js </a>
 - <a href="https://wowjs.uk/" target="_blank"> wow.js </a>
+- <a href="https://splidejs.com/" target="_blank"> splide </a>
 
 <b> Responsiveness  </b>
 
