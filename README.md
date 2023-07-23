@@ -47,6 +47,8 @@ tools I gathered to use in my personal projects
 
 - <a href="https://colorpalettes.earth/" target="_blank"> nature </a>
 - <a href="https://realtimecolors.com/?colors=000000-ffffff-8fb3ff-ebf1ff-d41d6d" target="_blank"> Realtime Colors </a>
+- <a href="https://www.canva.com/colors/color-wheel/" target="_blank"> Color wheel </a>
+
 
 <b> Fonts </b>
 
