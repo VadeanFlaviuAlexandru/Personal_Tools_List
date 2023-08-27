@@ -82,5 +82,7 @@ tools I gathered to use in my personal projects
 - <a href="https://editor.fusionbrain.ai/"> Fusion Brain </a>
 - <a href="https://firefly.adobe.com/inspire/images"> Adobe Firefly </a>
 - <a href="https://app.leonardo.ai/"> Leonardo.Ai </a>
+- <a href="https://clipdrop.co"> ClipDrop </a>
+- <a href="https://beta.dreamstudio.ai/generate"> Dreamstudio </a>
 
 Side note: link to .pdf for interviews: <a href="https://drive.google.com/file/d/1Gq9eHH1-fFSvhamiNuzJVpiALFSQIZg8/view" target="_blank"> pdf </a>
