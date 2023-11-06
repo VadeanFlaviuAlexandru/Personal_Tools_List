@@ -72,6 +72,7 @@ tools I gathered to use in my personal projects
 
 - <a href="https://www.futurepedia.io/" target="_blank"> FuturePedia </a>
 - <a href="https://easy-peasy.ai/"> easy-peasy </a>
+- <a href="https://www.bing.com/create"> bing AI </a>
 
 <b> Text to Image </b>
 
