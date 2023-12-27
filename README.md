@@ -88,4 +88,4 @@ tools I gathered to use in my personal projects
 
 note: link to .pdf for interviews: <a href="https://drive.google.com/file/d/1Gq9eHH1-fFSvhamiNuzJVpiALFSQIZg8/view" target="_blank"> pdf </a>
 
-note: link to next.js github for miscellaneous frameworks/libraries: <a href="https://github.com/officialrajdeepsingh/awesome-nextjs" target="_blank"> next.js </a>
+note: link to next.js github for NPM libraries: <a href="https://github.com/officialrajdeepsingh/awesome-nextjs" target="_blank"> next.js </a>
