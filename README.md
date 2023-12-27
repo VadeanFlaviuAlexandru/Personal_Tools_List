@@ -86,4 +86,5 @@ tools I gathered to use in my personal projects
 - <a href="https://clipdrop.co"> ClipDrop </a>
 - <a href="https://beta.dreamstudio.ai/generate"> Dreamstudio </a>
 
-Side note: link to .pdf for interviews: <a href="https://drive.google.com/file/d/1Gq9eHH1-fFSvhamiNuzJVpiALFSQIZg8/view" target="_blank"> pdf </a>
+note: link to .pdf for interviews: <a href="https://drive.google.com/file/d/1Gq9eHH1-fFSvhamiNuzJVpiALFSQIZg8/view" target="_blank"> pdf </a>
+note: link to next.js github for miscellaneous frameworks/libraries: <a href="https://github.com/officialrajdeepsingh/awesome-nextjs" target="_blank"> next.js </a>
