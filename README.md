@@ -4,6 +4,7 @@ tools I gathered to use in my personal projects
 <b> multiple tools  </b>
 
 - <a href="https://omatsuri.app/" target="_blank"> multiple tools </a>
+- <a href="https://v3.thestocks.im/" target="_blank"> even more multiple tools </a>
 
 <b> React libraries  </b>
 
