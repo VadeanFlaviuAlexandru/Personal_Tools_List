@@ -11,6 +11,7 @@ tools I gathered to use in my personal projects
 - <a href="https://react-spring.dev/" target="_blank"> Spring </a>
 - <a href="https://use-gesture.netlify.app/" target="_blank"> use-gesture </a>
 - <a href="https://react-hook-form.com/" target="_blank"> hook form </a>
+- <a href="https://reactbits.dev/" target="_blank"> React lib </a>
 
 <b> 3D libraries  </b>
 
